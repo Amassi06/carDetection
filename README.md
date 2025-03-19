@@ -1,4 +1,4 @@
-🚗👤 Détection de Voitures et de Personnes
+🚗👤Détection de Voitures et de Personnes
 
 🌟 Présentation
 
@@ -12,3 +12,7 @@ pour une détection en temps réel et efficace.
 ✅ Prise en charge des flux vidéo, des images et de la webcam 🎥
 ✅ Modèles pré-entraînés pour une haute précision 🎯
 ✅ Facile à utiliser avec une simple ligne de commande ⚡
+
+![Description de l'image](1.png)
+![Description de l'image](2.png)
+
